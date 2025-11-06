@@ -20,11 +20,11 @@ Things I am excited to work on:
 
 
 
-Tags I am looking for in my job hunt: 
+<!--
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmpasswd&hide=html,jupyter-notebook)
 ](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
 **rmpasswd/rmpasswd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
