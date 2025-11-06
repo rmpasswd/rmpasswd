@@ -27,7 +27,7 @@ Name's **Mahin Ahmad**, dont mind the quirky username!
 ## Projects:
 
 - [mqtt-supabase-ingest](https://github.com/rmpasswd/mqtt-supabase-ingest): mqtt-dataStream IoT data into remote Postgres tables.
-
+- [Leetcode.JS30Days](https://github.com/rmpasswd/Leetcode.JS30Days): "30 Days of JavaScript" Challenge
 
 ## Badges:
 
