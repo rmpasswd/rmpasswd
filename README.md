@@ -1,7 +1,7 @@
 ### Greetings...
 Name's **Mahin Ahmad**, dont mind the quirky username!   
   
-🌱 I had been involved in an engineering service and product startup, Automize Engineering, since my bachelor studies and now...  
+🌱 I had been involved in an engineering service and product startup, Automize Engineering, since my bachelor studies; and now...  
 > 💡 I'm open to new opportunities in the domain of **backend**, **SRE**-ish roles, **data**-oriented roles etc.
 <br>  
 
@@ -20,8 +20,9 @@ Name's **Mahin Ahmad**, dont mind the quirky username!
 <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white"/>
 
 
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=rmpasswd&theme=react-dark)
+<img alt="Contribution Line Chart" src="https://github-readme-activity-graph.vercel.app/graph?username=rmpasswd&theme=react-dark" width="100%" height="300px"/>
+
+
 
 ## Projects:
 
