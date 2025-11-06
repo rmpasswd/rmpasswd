@@ -1,4 +1,9 @@
 ### Hi there 👋
+Name's **Mahin Ahmad**, dont mind the quirky username!   
+🌱 I had been involved in an engineering service and product startup, Automize Engineering, since my bachelor studies and now...
+> 💡 I'm open to new opportunities in domain of backend, SRE-ish roles, data-oriented roles etc. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmpasswd)](https://github.com/rmpasswd/redhat-perspirations)
 
 <!--
 **rmpasswd/rmpasswd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
