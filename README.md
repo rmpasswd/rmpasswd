@@ -24,6 +24,8 @@ Name's **Mahin Ahmad**, dont mind the quirky username!
 
 - [mqtt-supabase-ingest](https://github.com/rmpasswd/mqtt-supabase-ingest): mqtt-dataStream IoT data into remote Postgres tables.
 - [Leetcode.JS30Days](https://github.com/rmpasswd/Leetcode.JS30Days): "30 Days of JavaScript" Challenge
+- [Leetcode.75](https://github.com/rmpasswd/LeetCode.75): Notes while solving 75 Essential & Trending Interview Problems
+
 
 
 <img alt="Contribution Line Chart" src="https://github-readme-activity-graph.vercel.app/graph?username=rmpasswd&theme=react-dark" width="100%" height="300px"/>
