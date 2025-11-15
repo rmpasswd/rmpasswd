@@ -20,14 +20,13 @@ Name's **Mahin Ahmad**, dont mind the quirky username!
 <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white"/>
 
 
-<img alt="Contribution Line Chart" src="https://github-readme-activity-graph.vercel.app/graph?username=rmpasswd&theme=react-dark" width="100%" height="300px"/>
-
-
-
 ## Projects:
 
 - [mqtt-supabase-ingest](https://github.com/rmpasswd/mqtt-supabase-ingest): mqtt-dataStream IoT data into remote Postgres tables.
 - [Leetcode.JS30Days](https://github.com/rmpasswd/Leetcode.JS30Days): "30 Days of JavaScript" Challenge
+
+
+<img alt="Contribution Line Chart" src="https://github-readme-activity-graph.vercel.app/graph?username=rmpasswd&theme=react-dark" width="100%" height="300px"/>
 
 ## Badges:
 
