@@ -9,7 +9,6 @@ Name's **Mahin Ahmad**, dont mind the quirky username!
 <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> 
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> 
-<img alt="Grafana" src="https://img.shields.io/badge/Grafana-D35400?style=for-the-badge&logo=Grafana&logoColor=white"/> 
 <img alt="MQTT" src="https://img.shields.io/badge/MQTT-D35400?style=for-the-badge&logo=mqtt"/>
 <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
@@ -17,7 +16,8 @@ Name's **Mahin Ahmad**, dont mind the quirky username!
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="golang" src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/> 
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
-<img alt="Kubernetes" src="https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/> 
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-D35400?style=for-the-badge&logo=Grafana&logoColor=white"/> 
+<!-- <img alt="Kubernetes" src="https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>  -->
 
 
 ## Projects:
